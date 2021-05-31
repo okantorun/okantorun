@@ -8,7 +8,7 @@ I am second year computer engineering student.
 [<img align="left" alt="okantorun | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-<img align="left" alt="Okan Torun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=okantorun&show_icons=true&hide_border=true" />
+<img align="left" alt="Akan Torun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=okantorun&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/OTorun
 [linkedin]: https://www.linkedin.com/in/okan-torun-b73733145/
