@@ -1,3 +1,6 @@
+<img align="center" alt="Okan Torun's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=okantorun&theme=onedark&count_private=true&hide=issues&show_icons=true&hide_border=true" />
+
+
 ### Hi there 👋,I'm Okan
 * Computer Science and Engineering Student @Gebze TU
 * 📫 How to reach me: torun.okn@gmail.com
@@ -23,7 +26,6 @@
 
 ---
 
-<img align="left" alt="Okan Torun's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=okantorun&theme=onedark&count_private=true&hide=issues&show_icons=true&hide_border=true" />
 
 <img align="left" alt="Okan Torun's GitHub Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=okantorun&hide=html,CSS,JavaScript&layout=compact" />
 
