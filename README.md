@@ -1,5 +1,6 @@
-<img align="center" alt="Okan Torun's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=okantorun&theme=onedark&count_private=true&hide=issues&show_icons=true&hide_border=true" />
-
+<p align="center">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=okantorun&theme=onedark&count_private=true&hide=issues&show_icons=true&hide_border=true">
+</p>
 
 ### Hi there 👋,I'm Okan
 * Computer Science and Engineering Student @Gebze TU
