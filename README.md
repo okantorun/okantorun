@@ -1,5 +1,4 @@
 ### Hi there 👋,I'm Okan
----
 * Computer Science and Engineering Student @ Gebze TU
 
 ### Connect with me:
@@ -14,6 +13,7 @@
 [<img align="left" alt="okantorun | C++" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][C++]
 [<img align="left" alt="okantorun | arduino" width="30px" src="https://camo.githubusercontent.com/b3a1cdd20d0f308634ddd4598cdaa729c2d77047f51e66fa7206b9b4bac94c23/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667" />][arduino]
 [<img align="left" alt="okantorun | python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
+[<img align="left" alt="okantorun | Csharp" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />][Csharp]
 [<img align="left" alt="okantorun | linux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][linux]
 
 
@@ -26,7 +26,7 @@
 
 <img align="left" alt="Okan Torun's GitHub Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=okantorun&hide=html,CSS,JavaScript&layout=compact" />
 
-
+[Csharp]: https://docs.microsoft.com/tr-tr/dotnet/csharp/
 [python]: https://www.python.org/
 [linux]: https://www.linux.org/
 [arduino]: https://www.arduino.cc/
