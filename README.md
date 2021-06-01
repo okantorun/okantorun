@@ -1,5 +1,6 @@
-### Hi there 👋,I'm Okan
+<h1 align="center">Hi there 👋,I'm Okan</h1>
 * Computer Science and Engineering Student @Gebze TU
+* <br />
 * 📫 How to reach me: torun.okn@gmail.com
 
 ---
