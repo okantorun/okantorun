@@ -1,5 +1,6 @@
-### Hi there 👋, I'm Okan
-I am second year computer engineering student. 
+### Okan Torun
+---
+* Computer Science and Engineering Student @ Gebze TU
 
 ### Connect with me:
 
