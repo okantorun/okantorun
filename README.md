@@ -1,5 +1,6 @@
 ### Hi there 👋,I'm Okan
-* Computer Science and Engineering Student @ Gebze TU
+* Computer Science and Engineering Student @Gebze TU
+* 📫 How to reach me: torun.okn@gmail.com
 
 ### Connect with me:
 
