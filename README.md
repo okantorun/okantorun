@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Okan
+### Okan Torun
+<br />
+---
 I am second year computer engineering student. 
 
 ### Connect with me:
