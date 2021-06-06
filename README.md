@@ -45,5 +45,5 @@
 [C]: https://www.cprogramming.com/
 [java]: https://www.oracle.com/tr/java/technologies/javase-downloads.html
 [twitter]: https://twitter.com/OTorun
-[linkedin]: https://www.linkedin.com/in/okan-torun-b73733145/
+[linkedin]: https://www.linkedin.com/in/okantorun/
 [instagram]: https://www.instagram.com/okantorun/
