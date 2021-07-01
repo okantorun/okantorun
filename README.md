@@ -18,6 +18,7 @@
 
 [<img align="left" alt="okantorun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="okantorun | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="okantorun | Hackerrank" width="22px" src="https://camo.githubusercontent.com/43cad60b3e1662f800b9bae5c95cf729016560a64be5a64b96b6648e49c29de6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e312e302f69636f6e732f6861636b657272616e6b2e737667" />][hackerrank]
 <br />
 ### Languages and Tools:
 [<img align="left" alt="okantorun | Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />][java]
@@ -46,3 +47,4 @@
 [twitter]: https://twitter.com/OTorun
 [linkedin]: https://www.linkedin.com/in/okantorun/
 [instagram]: https://www.instagram.com/okantorun/
+[hackerrank]: https://www.hackerrank.com/torun_okn
