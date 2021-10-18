@@ -33,7 +33,7 @@
 <br />
 <br />
 
-<img align="left" alt="Okan Torun's GitHub Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=okantorun&hide=html,CSS,JavaScript&layout=compact" />
+<img align="left" alt="Okan Torun's GitHub Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=okantorun&hide=html,CSS,JavaScript,Tex&layout=compact" />
 
 
 
