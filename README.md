@@ -28,6 +28,9 @@
 [<img align="left" alt="okantorun | python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
 [<img align="left" alt="okantorun | Csharp" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />][Csharp]
 [<img align="left" alt="okantorun | linux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][linux]
+[<img align="left" alt="okantorun | sql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+
+
 
 
 <br />
@@ -40,6 +43,7 @@
 [Csharp]: https://docs.microsoft.com/tr-tr/dotnet/csharp/
 [python]: https://www.python.org/
 [linux]: https://www.linux.org/
+[sql]: https://www.sql.org/
 [arduino]: https://www.arduino.cc/
 [C++]: https://www.cplusplus.com/
 [C]: https://www.cprogramming.com/
