@@ -1,9 +1,8 @@
 
 <h2 align="left">Okan Torun</h2>
 
-* Computer Science and Engineering Student @Gebze TU
-
-* 📫 How to reach me: torun.okn@gmail.com
+* I graduated Bachelor of Science in Computer Engineering from @Gebze TU 
+* I am a Backend Developer and I am trying to improve myself in the field of **microservices and distributed systems**.
 
 
 ---
